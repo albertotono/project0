@@ -25,8 +25,11 @@ Thanks
 
 # Project 0
 1)
+
 Use pip to install Touch
+
 https://github.com/andrewp-as-is/touch.py 
+
 On my end I had the antivirus that was blocking "touch" make sure to unblock it. 
 2) 
 
