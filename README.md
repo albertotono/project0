@@ -30,7 +30,7 @@ Use pip to install Touch
 
 https://github.com/andrewp-as-is/touch.py 
 
-On my end I had the antivirus that was blocking "touch" make sure to unblock it. 
+On my end the antivirus was blocking "touch" make sure to unblock it. 
 2) 
 
 In README.md, include a short writeup describing your project, what’s contained in each file, and (optionally) any other additional information the staff should know about your project.
